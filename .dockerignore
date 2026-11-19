@@ -1,0 +1,8 @@
+# No meter en la imagen secretos ni artefactos locales.
+.env
+.env.*
+target/
+.idea/
+.vscode/
+*.iml
+*.log
